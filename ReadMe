@@ -1,0 +1,7 @@
+Description:
+
+Les avancées technologiques, en particulier dans le domaine médical, progressent chaque jour. Afin d’accompagner cette évolution, l’idée centrale de ce projet consiste à intégrer l’intelligence artificielle dans les applications chirurgicales.
+
+Ce travail s’inspire d’un concept développé au sein du laboratoire INRIA de Lille, visant à utiliser des réseaux de neurones pour modéliser des organes humains — en particulier le foie — et permettre l’interaction entre ces modèles et des approches d’apprentissage automatique.
+
+Dans cette première étape exploratoire, nous avons choisi de modéliser un simple poutre (beam) et d’y appliquer différentes forces, tout en respectant les lois physiques. Pour cela, nous avons utilisé des Physics-Informed Neural Networks (PINNs), qui permettent d’intégrer explicitement les contraintes physiques dans l’apprentissage du modèle.
